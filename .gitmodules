@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:ogabriel/grupolacosflores_WEB.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ogabriel/grupolacosflores_front.git
